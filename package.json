@@ -1,6 +1,13 @@
 {
   "name": "devicemonitor-frontend",
   "version": "0.1.0",
+  ******emma******
+    "engines": {
+    "node": "14.x"
+  }
+*******************
+
+
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
